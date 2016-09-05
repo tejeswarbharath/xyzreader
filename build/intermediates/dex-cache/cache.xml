@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_4575bdc7e3f08b858dbf3df8eeb725bdbff08814\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e1758aa19ea6965e58d64b2ed0e096ebad6c667a">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f926f933faa61aa74d7865707fbc44c6da0a6453\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_0b5e02dc8f1e29113fb374a3849847e9b7dc5fb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_4ca2c8b5bc8d0ee551ddf2e57ab3d327ea1843c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_5ffae41281aac2ed706ba6976b4ca6af28f4c9c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="6ba1adca31e0143a19cf47ceecb81ba58d05e6fd">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bf560de585e53c69fe75f6cc3f1d0d7d7e28fa81\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_5ca25a6dedf412af3c16290e5e77090882b7bf0c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_920d129fe01f2c84188baa0d9302e1ee54acc022\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_b0859c4337264ec71ace73b6b9655cac52303601\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_cc04182fbbf6e868ec177c2625f62ee438140811\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_548b0123d29ee3d89fff823fdb55feff3cb3a836\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_a6985b2d641b5e263dabdc1ac126178a97462f8a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-22.0.0_90c377c76efe952c9913b64a15e284dabf4087ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.0.0_d7cb07e5ad6a2d0ce490701b5b5e280c88611760\classes.dex" />
+    </item>
+
+</items>
