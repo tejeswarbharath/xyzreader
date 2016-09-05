@@ -4,22 +4,62 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="686509715287476"
-    token="-6052845923676027501" >
+    timestamp="706309084678312"
+    token="-6052845923676027501"
+    verifier="R_CLASS_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="37102" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="3067" />
     <task
         name="verifier"
-        duration="0" />
+        duration="799" />
 
-    <build timestamp="686509715287476" />
+    <artifact
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build timestamp="698013611975453" >
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="706309084678312"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
 
 </instant-run>
