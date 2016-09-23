@@ -4,62 +4,45 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="706309084678312"
+    timestamp="449967074578523"
     token="-6052845923676027501"
-    verifier="R_CLASS_CHANGE" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="37102" />
+        duration="4491" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="8533" />
     <task
         name="instant-run-transform"
-        duration="3067" />
+        duration="391" />
     <task
         name="verifier"
-        duration="799" />
+        duration="223" />
 
     <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-        type="DEX" />
-    <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-        type="DEX" />
+        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
-    <build timestamp="698013611975453" >
+    <build timestamp="446983370043293" >
         <artifact
             location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="706309084678312"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
-            type="DEX" />
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
-            type="DEX" />
+        timestamp="447776179085872"
+        verifier="FIELD_TYPE_CHANGE" >
         <artifact
             location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="449967074578523"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -7,10 +7,13 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 import android.support.v7.widget.Toolbar;
@@ -29,7 +32,8 @@ import com.example.xyzreader.data.UpdaterService;
  * touched, lead to a {@link ArticleDetailActivity} representing item details. On tablets, the
  * activity presents a grid of items as cards.
  */
-public class ArticleListActivity extends ActionBarActivity implements
+
+public class ArticleListActivity extends AppCompatActivity implements
         LoaderManager.LoaderCallbacks<Cursor> {
 
     private Toolbar mToolbar;
@@ -40,12 +44,21 @@ public class ArticleListActivity extends ActionBarActivity implements
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
-        //setSupportActionBar(mToolbar);
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+
+        final Typeface tf = Typeface.createFromAsset(getResources().getAssets(), "Rosario-Regular.ttf");
+
         CollapsingToolbarLayout collapsingToolbar =
                 (CollapsingToolbarLayout) findViewById(R.id.collapsing_toolbar);
-        collapsingToolbar.setTitle("XYZ reader");
-        mToolbar = (Toolbar) findViewById(R.id.toolbar);
-        final View toolbarContainerView = findViewById(R.id.toolbar_container);
+
+        collapsingToolbar.setCollapsedTitleTextColor(ContextCompat.getColor(ArticleListActivity.this, android.R.color.white));
+        collapsingToolbar.setTitle(getResources().getString(R.string.app_name));
+        collapsingToolbar.setCollapsedTitleTypeface(tf);
+        collapsingToolbar.setExpandedTitleTypeface(tf);
+        collapsingToolbar.setExpandedTitleColor(
+                ContextCompat.getColor(ArticleListActivity.this, android.R.color.transparent));
+
+        //final View toolbarContainerView = findViewById(R.id.toolbar_container);
 
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
