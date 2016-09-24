@@ -4,45 +4,27 @@
     api-level="23"
     density="xhdpi"
     format="7"
-    timestamp="449967074578523"
-    token="-6052845923676027501"
-    verifier="COMPATIBLE" >
+    timestamp="461679539760986"
+    token="-6052845923676027501" >
 
     <task
         name="javac"
-        duration="4491" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="8533" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="391" />
+        duration="0" />
     <task
         name="verifier"
-        duration="223" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
-
-    <build timestamp="446983370043293" >
+    <build timestamp="461438563682835" >
         <artifact
             location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\outputs\apk\XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="447776179085872"
-        verifier="FIELD_TYPE_CHANGE" >
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="449967074578523"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\tejeswar\Music\xyzreader\XYZReader\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
+    <build timestamp="461679539760986" />
 
 </instant-run>

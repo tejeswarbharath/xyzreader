@@ -138,7 +138,7 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        bindViews();
+  //      bindViews();
         updateStatusBar();
 
           /* Toolbar toolbar = (Toolbar) mRootView.findViewById(R.id.toolbar);
