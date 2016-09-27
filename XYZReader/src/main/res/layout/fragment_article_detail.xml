@@ -41,6 +41,7 @@
 
                     <ImageView
                         android:id="@+id/photo"
+                        app:layout_scrollFlags="scroll|enterAlways|enterAlwaysCollapsed"
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
                         android:adjustViewBounds="true"
@@ -129,6 +130,7 @@
         android:id="@+id/share_fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_gravity="bottom|right"
         android:layout_margin="@dimen/fab_margin"
         android:clickable="true"
         android:elevation="@dimen/fab_elevation"
