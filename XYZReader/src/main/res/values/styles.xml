@@ -26,11 +26,14 @@
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/holo_green_dark</item>
     </style>
+
     <style name="MyStyle">
         <item name="android:textColor">#1D175F</item>
         <item name="android:textStyle">bold</item>
     </style>
+
     <style name="AppBaseTheme.ActionBar" parent="Widget.AppCompat.Light.ActionBar.Solid">
         <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
     </style>
+
 </resources>
